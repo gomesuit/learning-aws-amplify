@@ -1,0 +1,5 @@
+{
+	"devDependencies": {
+		"@aws-amplify/cli": "^12.10.1"
+	}
+}
